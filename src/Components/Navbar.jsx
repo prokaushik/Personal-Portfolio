@@ -1,6 +1,6 @@
 import { FaLinkedinIn } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
-import { FaSquareXTwitter } from 'react-icons/fa6';
+import { FaSquareYoutube } from 'react-icons/fa6';
 import { FaInstagram } from 'react-icons/fa';
 
 
@@ -16,6 +16,7 @@ const Navbar = () => {
         <a href="https://www.linkedin.com/in/prince-kaushik-873b26283/"><FaLinkedinIn/></a>
         <a href="https://github.com/prokaushik"><FaGithub/></a>
         <a href="https://www.instagram.com/prince_kaushik4/"><FaInstagram/> </a>
+        <a href='https://drive.google.com/file/d/1Os46Ll2tPEUlPF36YBhHJjmdKEnGwc-X/view?usp=drivesdk'><FaSquareYoutube/></a>
       </div>
     </nav>
   )

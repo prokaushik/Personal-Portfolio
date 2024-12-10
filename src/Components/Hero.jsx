@@ -1,5 +1,5 @@
 import {HERO_CONTENT} from "../constants/index";
-import Profile from "../assets/Profile2.jpg";
+import Profile from "../assets/Profile.jpeg";
 import {delay, motion } from "framer-motion";
 
 const container=(delay)=>({
@@ -22,7 +22,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible"
             className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl">
-              Prince
+              Prince Kaushik
             </motion.h1>
             <motion.span
             variants={container(0.4)}

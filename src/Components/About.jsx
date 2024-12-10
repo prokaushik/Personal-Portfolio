@@ -1,4 +1,4 @@
-import Profile2 from "../assets/Profile.jpeg";
+import Profile2 from "../assets/Profile2.jpg";
 import { ABOUT_TEXT } from "../constants/index";
 import { motion } from "framer-motion";
 
